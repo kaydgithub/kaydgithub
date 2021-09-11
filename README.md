@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaydgithub
-- 👀 I’m interested in blockchain, crypto, AI, mining, renewables and more!
+- 👀 I’m interested in blockchain, crypto, iot, AI, mining, renewables and more!
 - 🌱 I’m currently learning Helium!
 - 💞️ I’m looking to collaborate on Defi projects, R&D, Blockcahin & Crypto!
 - 📫 How to reach me ...please reach out on here first.  Thanks.
